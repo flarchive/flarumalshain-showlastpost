@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of flarumalshain/showlastpost.** Not for installation: use [Packagist](https://packagist.org/packages/flarumalshain/showlastpost) or the [upstream repository](https://github.com/flarumalshain/showlastpost).
 
-**0** versions archived · Latest: [`v1.2`](https://github.com/flarchive/flarumalshain-showlastpost/tree/archive/v1.2) · License: `MIT` · Flarum: `>=0.1.0-beta.9 < 0.1.0-beta.14`
+**3** versions archived · Latest: [`v1.2`](https://github.com/flarchive/flarumalshain-showlastpost/tree/archive/v1.2) · License: `MIT` · Flarum: `>=0.1.0-beta.9 < 0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2020-01-31 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flarumalshain-showlastpost/tree/archive/v1.0) |
+| `1.1` | 2020-01-31 | `>=0.1.0-beta.9 < 0.1.0-beta.13` | [Browse](https://github.com/flarchive/flarumalshain-showlastpost/tree/archive/v1.1) |
+| `v1.2` | 2020-05-10 | `>=0.1.0-beta.9 < 0.1.0-beta.14` | [Browse](https://github.com/flarchive/flarumalshain-showlastpost/tree/archive/v1.2) |
 
 Catalog entry: [packages/flarumalshain-showlastpost.json](https://github.com/flarchive/archive-index/blob/main/packages/flarumalshain-showlastpost.json)
 
